@@ -15,9 +15,17 @@ After writing the user manual, I created a companion video, and split it into cl
 
 This video was unscripted and unedited.  I made a point of speaking slowly.  My main concern was to make resources available on-line, in the event that I was unavailable to answer questions.  If the video proved to be useful, I could spend some time in post-production and clean it up.
 
-#### Getting Started
+&nbsp;
 
-`<<< Insert VIDEO Here >>>`
+---
+
+&nbsp;
+
+#### Getting Started (Video)
+
+[![Watch the video](http://img.youtube.com/vi/aQHR9AW3NUQ/0.jpg)](https://youtu.be/aQHR9AW3NUQ)
+
+_(Click to watch)_
 
 &nbsp;
 
