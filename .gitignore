@@ -1,3 +1,9 @@
-_site/
-.sass-cache/
+_site
+.sass-cache
 .jekyll-metadata
+Gemfile
+Gemfile.lock
+<<<<<<< HEAD
+Makefile
+=======
+>>>>>>> ee196dea394e4ef93d1d278345c2ec78d16e8e70
