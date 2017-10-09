@@ -32,7 +32,7 @@ google_plus_username: patrick.a.levell
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
