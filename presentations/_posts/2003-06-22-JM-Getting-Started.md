@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Job Master Inquiry"
-date:   2017-10-06 21:47:19 -0400
+date:   2003-06-22 12:34:56 -0400
 categories: work-samples jdedwards job-master vulcraft
 permalink: /presentations/job-master/
 ---
-#### What is the Job Master?
+### What is the Job Master?
 
 The Job Master is a J.D. Edwards application that I created for top-level management to get an overview of jobs in the ERP system, as they pass through sales, engineering, production, shipping, and invoicing.  Large steel jobs can take months to design and build, and require hundreds of shipments and invoices.  The Job Master presents this information on a single screen that can be queried at the users leisure.
 
-#### Background
+### Background
 
 After writing the user manual, I created a companion video, and split it into clips.  These clips were placed on the company's first-ever web server, which I was building in concert with putting the environmental and quality management systems, and the newsletter on the company intranet.
 
@@ -21,7 +21,7 @@ This video was unscripted and unedited.  I made a point of speaking slowly.  My 
 
 &nbsp;
 
-#### Getting Started (Video)
+### Getting Started (Video)
 
 [![Watch the video](http://img.youtube.com/vi/aQHR9AW3NUQ/0.jpg)](https://youtu.be/aQHR9AW3NUQ)
 
@@ -33,7 +33,7 @@ _(Click to watch)_
 
 &nbsp;
 
-#### User Manual (PDF)
+### User Manual (PDF)
 
 <object data="/media/job-master/Job_Master_Manual.pdf" type="application/pdf" width="100%" height="700px">
 	<embed src="/media/job-master/Job_Master_Manual.pdf">
