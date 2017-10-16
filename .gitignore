@@ -3,4 +3,6 @@ _site
 .jekyll-metadata
 Makefile
 _backups
+.DS_Store
+.idea
 *.geany
