@@ -33,18 +33,39 @@ google_plus_username: patrick.a.levell
 # Build settings
 markdown: kramdown
 theme: minima
-# theme: jekyll-theme-time-machine (Only good for gists)
+# theme: jekyll-theme-cayman
+## Available Themes
+# jekyll-theme-{architect, cayman, dinky, hacker,
+#    leap-day, merlot, midnight, minimal,
+#    modernist, slate, tactile, time-machine}
+## Theme Scores
+## Theme      Score   Comments
+## architect    3     Good colour scheme, unprofessional font
+## cayman       7     Good color scheme, good font size
+## dinky        3     Okay layout, overlapping text in sidebar (my info)
+## hacker       4     Too dark, good fonts (and BRIGHT!); need daylight version
+## leap-day     2     Ugly colour scheme, header text runs off screen
+## merlot       3     Old-fashioned layout, text too small
+## midnight     2     Too dark, icky colour scheme, text too small
+## minima       5     Bland colour scheme, the ONLY one that has a navigation bar
+## minimal      5     Two-column layout, text too small
+## modernist    5     Good colour scheme, text too small
+## slate        4     Header too dark, text good size
+## tactile      4     Gradient-fill background, text good size
+## time-machine 4     I like this for code-snippets (ie. gists)
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - '*~*'
