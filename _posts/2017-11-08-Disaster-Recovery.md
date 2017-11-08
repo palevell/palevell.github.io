@@ -2,7 +2,7 @@
 layout: post
 title:  "Disaster Recovery"
 date:   2017-11-08 08:44:19 -0500
-categories: sysadmin, linux, backups, apt-get
+categories: sysadmin
 ---
 {: style="float: right"}
 ![IMAGE](/images/disaster-recovery-180.jpg)
