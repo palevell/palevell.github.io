@@ -7,7 +7,7 @@ categories: sysadmin, linux, backups, apt-get
 {: style="float: right"}
 ![IMAGE](/images/disaster-recovery-180.jpg)
 
-It has been a crazy month.  I've been tracing the source of an intermittent issue that causes the hard drive on my laptop to go into **read-only** mode.  While tracing this, an Ubuntu distribution update saw fit to remove the GUI, and all software packages that explicity depended on it.
+It has been a crazy month.  I've been tracing the source of an intermittent issue that causes the hard drive on one of my laptops to go into **read-only** mode.  While tracing this, an Ubuntu distribution update saw fit to remove the GUI, and all software packages that explicity depended on it.
 
 ### Read-Only Filesystem
 This seems to be a bug in the Ubuntu kernel, going back **nine (9) years**.  In recent years, it seems to affect solid-state drives (SSDs) more than traditional hard drives (ie. SATA, SCSI, etc.).  It makes me wonder if it is related to the size/capacity of the disk.  In other words, does it only affect bigger hard drives?  If so, could a work-around be using smaller disk partitions?
