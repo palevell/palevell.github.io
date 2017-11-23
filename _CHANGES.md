@@ -1,5 +1,8 @@
 # Change Log
 
+##### Thursday, November 23, 2017
+- Updated Resume in /docs folder
+
 ##### October 15, 2017
 - None of the optional themes for GitHub pages support a navigation bar, 
 like the **`minima`** theme
