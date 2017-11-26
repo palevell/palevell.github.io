@@ -1,7 +1,12 @@
 # Change Log
 
+##### Sunday, November 26, 2017
+- Updated resume in /docs folder
+- Symlinked docs/PatrickLevell2017web.pdf to docs/Resume2017web.pdf
+- Created patrick directory for patrick.levell.tech subdomain
+
 ##### Thursday, November 23, 2017
-- Updated Resume in /docs folder
+- Updated resume in /docs folder
 
 ##### October 15, 2017
 - None of the optional themes for GitHub pages support a navigation bar, 
