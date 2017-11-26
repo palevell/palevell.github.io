@@ -6,3 +6,4 @@ _backups
 .DS_Store
 .idea
 *.geany
+*~*
