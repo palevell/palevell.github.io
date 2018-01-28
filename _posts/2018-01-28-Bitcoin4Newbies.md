@@ -6,6 +6,8 @@ categories: bitcoin
 permalink: /bitcoin-for-newbies/
 ---
 
+![IMAGE](/images/Bitcoin01.jpg)
+
 This is a work-in-progress...  For now, these items are in no particular order, except for the first one.  Credit goes to the members of the [Cryptocurrency Collectors Club](https://www.facebook.com/groups/cryptocurrencycollectorsclub) for providing many of these links.
 
 ## Learning
