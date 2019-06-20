@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Pelican Themes"
+title:      Pelican Themes
 date:       2019-06-19 11:44:55 -0400
 categories: gist programming python
 permalink:  /tidbits/testing-pelican-themes/
