@@ -1,5 +1,9 @@
 # Change Log
 
+##### Thursday, June 27, 2019
+- Updated resume in job-hunting project, copied to /docs folder
+- Symlinked docs/PatrickLevell2019web.pdf to docs/Resume2019web.pdf
+
 ##### Sunday, November 26, 2017
 - Updated resume in /docs folder
 - Symlinked docs/PatrickLevell2017web.pdf to docs/Resume2017web.pdf
