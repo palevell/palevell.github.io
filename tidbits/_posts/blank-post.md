@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  "(Empty)"
-date:   2017-10-06 21:47:19 -0400
+layout:     post
+title:      "(Empty)"
+date:       2001-01-01 12:34:56-04:00 
 categories: everything
+permalink:  /tidbits/blank-post/
+excerpt:    This is a blank post
 ---
 
 # (Empty)
