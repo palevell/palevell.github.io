@@ -31,6 +31,6 @@ haven't tweeted in the last six (6) months.
 As a public service, I am offering a free "Idle Tweeps Report" to 
 the first 10 people who respond to this offer.
 
-[Click here](mailto:patrick.a.levell@gmx.com?subject=[OFFER]+Free+Idle+Tweeps+Report) to get your free report.
+[Click here](mailto:patrick.a.levell@gmx.com?subject=[OFFER]+Free+Idle+Tweeps+Report) to get your free report.  Please be sure to include your Twitter username (ie. @someone)
 
 
