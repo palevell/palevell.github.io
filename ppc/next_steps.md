@@ -2,7 +2,7 @@
 layout: page
 title: Next Steps
 hidden: true
-permalink: /ppc/nextsteps/
+permalink: /ppc-nextsteps/
 ---
 
 **Next Steps**
