@@ -47,7 +47,7 @@ permalink: /ppc-nextsteps/
 		- Sharing videos on a dedicated PPC channel could achieve this
 		- (Even a playlist or playlists on a dedicated PPC channel would help)
 		- Content creators could use a Create Commons licence when posting videos to be shared
-		
+
 ### Lean Manufacturing / Agile Programming Philosophy
 Lean Manufacturing is about minimizing waste.  Said another way, lean means
 creating more value for customers with fewer resources, and these principles
@@ -75,7 +75,8 @@ can be applied to most ventures/organizations.
 ### Misc
 - Everybody has a peoplespartyofcanada.ca Email address
 - EDA sub-sites for NationBuilder (if possible)
--
+
+****
 
 
 [1]: https://youtu.be/ybGAcA3lz7k
