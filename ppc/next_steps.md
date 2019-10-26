@@ -15,8 +15,8 @@ permalink: /ppc-nextsteps/
     - Time could have been used to prepare social media presence
         - Creating YouTube videos for later release
         - Composing tweets & other social media posts
-- Local EDA's approach was largely half-assed
-    - Most meetings & events scheduled
+- Local EDAs approach could be better-organized
+    - Most meetings & events scheduled with two days notice
 - Obstacles
     - Regional Co-ordinators (ie. [Nicola Hanson][1])
     - Blocked at national debates
