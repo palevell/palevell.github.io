@@ -56,6 +56,7 @@ can be applied to most ventures/organizations.
 ##### Reference
 - [What Is Lean Manufacturing?][8]
 - [What is Lean?][9]
+- [What is Agile?][11]
 
 ### Regular Communications with HQ
 - Twitter chat rooms filled the need to share information between EDAs & candidates
@@ -89,5 +90,5 @@ can be applied to most ventures/organizations.
 [8]: https://www.projectmanager.com/blog/what-is-lean-manufacturing
 [9]: https://www.lean.org/WhatsLean/
 [10]: https://archive.fo/LUWYz#selection-2301.36-2301.37
-
+[11]: https://www.agilealliance.org/agile101/
 
