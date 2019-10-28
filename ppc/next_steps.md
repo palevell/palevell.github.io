@@ -2,8 +2,8 @@
 layout: page
 title: Next Steps
 date: 2019-10-26 12:34:56 -0400
-modified: 2019-10-27 19:41:56 -0400
-version: 3
+modified: 2019-10-28 08:20:20 -0400
+version: 5
 category: Politics
 tags: [ PPC, People's Party of Canada, Election, Post-Election, ]
 permalink: /ppc-nextsteps/
@@ -99,6 +99,16 @@ This is in the interests of reducting duplication of expenses.  Areas of interes
 include internet services and promtional materials.  This is core to offering more
 of a "turn-key" solution.
 
+**Vision:** People setting up the EDAs log on to *peoplespartyofcanada.ca*, enter EDA
+details into a form, and a web page with donation button, Email address, chat room
+are created.  As candidates are recruited, the EDA can log on to enter the candidate's
+name, and have a web page & Email address created.
+- People should be able to enter *<ridingname>.peoplespartyofcanada.ca* or
+*peoplespartyofcanada/<ridingname>* to find their riding and a similar scheme to find
+their candidate.
+- Candidates sholuld be able to log on to find vendors for business cards and signage
+from regional and national businesses that offer discounts, arranged by HQ.
+
 #### Internet - peoplespartyofcanada.ca
 1. Everybody has a peoplespartyofcanada.ca Email address
 2. EDA sub-sites for [NationBuilder][12] (if possible)
@@ -112,9 +122,10 @@ Business cards & signs on HQ site for discounted price
 2. Could be joint event, where PPC has blocks of seats
 2. The public needs to see there are more people than the polls lead them to believe
 
+<br>
 
-
-###### rev. 3
+*****
+###### rev. {{ page.version }} ({{ page.modified }})
 
 [1]: https://youtu.be/ybGAcA3lz7k
 [2]: https://shawnpaulmelville.com/blog
