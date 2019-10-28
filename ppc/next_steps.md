@@ -6,7 +6,7 @@ modified: 2019-10-27 19:41:56 -0400
 version: 3
 category: Politics
 tags: [ PPC, People's Party of Canada, Election, Post-Election, ]
-permalink: /ppc/nextsteps/
+permalink: /ppc-nextsteps/
 ---
 ### Observations
 1. Lack of direction from HQ
