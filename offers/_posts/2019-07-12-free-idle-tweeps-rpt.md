@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Free Idle Tweeps Report
+title:      Free Idle Tweeps Report (Expired)
 date:       2019-07-12 14:09:35-04:00
 categories: offers
 permalink:  /offers/free-idle-tweeps-report/
 excerpt:    Get your free Idle Tweeps Report
 ---
 
-# Get Your Free Idle Tweeps Report
+# Get Your Free Idle Tweeps Report (Offer Expired)
 
 If the tweeps you follow become inactive, they can affect 
 the algorithms Twitter uses to get your tweets seen by others.
