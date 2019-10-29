@@ -2,8 +2,8 @@
 layout: page
 title: Next Steps
 date: 2019-10-26 12:34:56 -0400
-modified: 2019-10-28 08:20:20 -0400
-version: 5
+modified: 2019-10-28 10:45:00 -0400
+version: 6
 category: Politics
 tags: [ PPC, People's Party of Canada, Election, Post-Election, ]
 permalink: /ppc-nextsteps/
@@ -125,7 +125,7 @@ Business cards & signs on HQ site for discounted price
 <br>
 
 *****
-###### rev. {{ page.version }} ({{ page.modified }})
+###### Revision {{ page.version }} ({{ page.modified | date: "%B %-d, %Y %H:%M:%S %z" }})
 
 [1]: https://youtu.be/ybGAcA3lz7k
 [2]: https://shawnpaulmelville.com/blog
