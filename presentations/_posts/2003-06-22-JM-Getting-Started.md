@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Job Master Inquiry"
-date:   2003-06-22 12:34:56 -0400
-categories: work-samples jdedwards job-master vulcraft
+layout:     post
+title:      "Job Master Inquiry"
+date:       2003-06-22 12:34:56 -0400
+categories: Presentations
+tags:       jdedwards job-master vulcraft
 permalink: /presentations/job-master/
 ---
 ### What is the Job Master?

@@ -3,8 +3,8 @@ layout:     post
 title:      Pelican Themes Randomizer
 date:       2019-06-20 08:22:22 -0400
 modified:   2019-06-20 08:24:22 -0400
-categories: programming
-tags:       pelican, pelican-themes, 
+categories: TidBits
+tags:       pelican pelican-themes python 
 permalink:	/tidbits/pelican-themes-randomizer
 excerpt:    This script chooses a random theme from pelican-themes--great for testing!
 ---

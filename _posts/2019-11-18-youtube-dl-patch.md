@@ -2,7 +2,8 @@
 layout: post   
 title:  PATCH - Long Tweets in youtube-dl
 date:   2019-11-18 09:34:56 -0500
-categories: development
+categories: Software
+tags: Development youtube-dl Twitter 
 ---
 
 If you have been experiencing *'Cannot write'* errors when trying to 

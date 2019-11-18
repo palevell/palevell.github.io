@@ -2,7 +2,8 @@
 layout: post
 title:  Updated Resumé
 date:   2019-11-08 12:34:56 -0500
-categories: careers
+categories: Careers
+tags: resume
 ---
 
 Now that the 2019 federal elections are over in Canada, it is time to 

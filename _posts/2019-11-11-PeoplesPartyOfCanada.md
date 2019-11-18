@@ -2,7 +2,8 @@
 layout: post
 title:  People's Party of Canada
 date:   2019-11-11 11:11:11 -0500
-categories: politics, careers
+categories: Tech
+tags: [PPC, Python, Tweepy, Programming]
 ---
 
 Back in February, I started a research project using the 

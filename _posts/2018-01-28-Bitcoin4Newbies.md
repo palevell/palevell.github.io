@@ -2,7 +2,8 @@
 layout: post
 title:  Bitcoin for Newbies
 date:   2018-01-28 12:34:56 -0500
-categories: bitcoin
+categories: Education
+tags: Bitcoin Newbies, Reference
 permalink: /bitcoin-for-newbies/
 ---
 

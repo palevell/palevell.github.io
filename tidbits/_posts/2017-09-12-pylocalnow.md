@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Code Tidbit: PyLocalNow (Python)"
-date:   2017-09-12 12:34:56 -0400
-categories: programming timezones python
-permalink: /tidbits/pylocalnow/
+layout:     post
+title:      "Code Tidbit: PyLocalNow (Python)"
+date:       2017-09-12 12:34:56 -0400
+categories: TidBits
+tags:       programming timezones python 
+permalink:  /tidbits/pylocalnow/
 ---
 
 ### **What is PyLocalNow?**

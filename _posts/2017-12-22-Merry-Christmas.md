@@ -2,7 +2,8 @@
 layout: post
 title:  Merry Christmas!
 date:   2017-12-22 12:34:56 -0500
-categories: holidays
+categories: Personal
+tags: Christmas Wishes, YouTube, Video
 permalink: /merry-christmas/
 ---
 

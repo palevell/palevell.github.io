@@ -2,7 +2,8 @@
 layout: post
 title:  Happy New Year!
 date:   2017-12-31 16:34:56 -0500
-categories: holidays
+categories: Personal
+tags: Holidays Happy-New-Year
 permalink: /happy-new-year/
 ---
 
