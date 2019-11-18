@@ -2,7 +2,7 @@
 layout: post
 title:  Updated Resumé
 date:   2019-11-08 12:34:56 -0500
-categories: Careers
+categories: Personal
 tags: resume
 ---
 
