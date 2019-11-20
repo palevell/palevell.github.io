@@ -2,7 +2,7 @@
 layout: post   
 title:  PATCH - Long Tweets in youtube-dl
 date:   2019-11-18 09:34:56 -0500
-categories: Tech
+categories: Technology
 tags: development youtube-dl twitter 
 ---
 

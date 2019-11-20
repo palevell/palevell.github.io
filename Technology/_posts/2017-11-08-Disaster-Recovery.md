@@ -2,7 +2,7 @@
 layout: post
 title:  "Disaster Recovery"
 date:   2017-11-08 08:44:19 -0500
-categories: Tech
+categories: Technology
 tags: sysadmin disaster-recovery 
 ---
 {: style="float: right"}
