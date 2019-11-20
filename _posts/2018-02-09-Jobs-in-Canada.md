@@ -3,7 +3,7 @@ layout: post
 title:  January Job Numbers for Canada
 date:   2018-02-09 12:34:56 -0500
 categories: News
-tags: Jobs Canada Statistics
+tags: jobs canada statistics
 ---
 
 ![IMAGE](/images/Canada-Jobless.png)

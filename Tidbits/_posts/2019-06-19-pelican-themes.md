@@ -2,7 +2,7 @@
 layout:     post
 title:      Pelican Themes
 date:       2019-06-19 11:44:55 -0400
-categories: TidBits
+categories: Tidbits
 tags:       gist python pelican
 permalink:  /tidbits/testing-pelican-themes/
 excerpt:    Sample Pelican config file for testing pelican-themes

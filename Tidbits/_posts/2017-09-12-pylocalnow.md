@@ -2,7 +2,7 @@
 layout:     post
 title:      "Code Tidbit: PyLocalNow (Python)"
 date:       2017-09-12 12:34:56 -0400
-categories: TidBits
+categories: Tidbits
 tags:       programming timezones python 
 permalink:  /tidbits/pylocalnow/
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  A Programmer's Christmas
 date:   2017-11-25 12:34:56 -0500
 categories: Entertainment
-tags: Christmas Holidays
+tags: christmas holidays
 permalink: /programmers-christmas/
 ---
 

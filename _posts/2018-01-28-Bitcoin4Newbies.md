@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Bitcoin for Newbies
-date:   2018-01-28 12:34:56 -0500
+layout:     post
+title:      Bitcoin for Newbies
+date:       2018-01-28 12:34:56 -0500
 categories: Education
-tags: Bitcoin Newbies, Reference
-permalink: /bitcoin-for-newbies/
+tags:       bitcoin newbies reference
+permalink:  /bitcoin-for-newbies/
 ---
 
 ![IMAGE](/images/Bitcoin01.jpg)

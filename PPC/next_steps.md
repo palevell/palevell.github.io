@@ -5,7 +5,7 @@ date: 2019-10-26 12:34:56 -0400
 modified: 2019-10-28 10:45:00 -0400
 version: 6
 category: Politics
-tags: [ PPC, People's Party of Canada, Election, Post-Election, ]
+tags: [ ppc, people's party of canada, election, post-election, ]
 permalink: /ppc-nextsteps/
 ---
 ### Observations
