@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Next Steps
-date: 2019-10-26 12:34:56 -0400
-modified: 2019-10-28 10:45:00 -0400
-version: 6
-category: Politics
-tags: [ ppc, people's party of canada, election, post-election, ]
-permalink: /ppc-nextsteps/
+layout:     page
+title:      Next Steps
+date:       2019-10-26 12:34:56 -0400
+modified:   2019-10-28 10:45:00 -0400
+version:    6
+category:   Politics
+tags:       ppc election post-election post-mortem
+permalink:  /ppc-nextsteps/
 ---
 ### Observations
 1. Lack of direction from HQ
