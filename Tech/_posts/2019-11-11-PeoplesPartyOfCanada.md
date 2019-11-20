@@ -1,0 +1,63 @@
+---
+layout:     post
+title:      People's Party of Canada
+date:       2019-11-11 11:11:11 -0500
+modified:   2019-11-19 20:20:20 -0500
+categories: Tech
+tags:       ppc python tweepy programming
+---
+
+Back in February, I started a research project using the 
+[Tweepy][tweepy] library in [Python][python].  Around that time, the 
+leader of the [People's Party of Canada][ppc] (PPC), Maxime Bernier, 
+asked people to follow the accounts that he followed, and retweet their 
+tweets.
+
+That was a big job, so I wrote a Python script to create a list to 
+which others could subscribe.  The next task was to isolate PPC-related 
+tweets.  This was the genesis of my twitter bot.  It listens for 
+PPC-related tweets from the accounts followed by Maxime Bernier.
+
+After a while, I wrote another Python script to generate Top Tweets 
+lists.  It generates daily Top Ten and weekly Top 40 lists of the most 
+popular PPC-related tweets.  It also served to help PPC supporters find 
+each other and relevant information.
+
+We built a solid community on Twitter, able to dominate most threads 
+and get hashtags trending.  This was particularly useful in getting the 
+attention of the debate organizers.
+
+Anyway, it is is a real shame that the Conservatives' hiring of Warren 
+Kinsella's Daisy Group (aka. [Project Cactus][cactus]) to smear Maxime 
+Bernier is being swept under the rug, so to speak.  It is a federal 
+crime under Section 91 of the Canada Elections Act, which specifically 
+makes spreading lies about your opponents during the writ period 
+illegal.
+
+> Elections Act, 91 (1) No person or entity shall, with the intention 
+> of affecting the results of an election, make or publish, during the 
+> election period, (a) a false statement that a candidate, a 
+> prospective candidate, the leader of a political party or a 
+> public figure associated with a political party has committed an 
+> offence under an Act of Parliament or a regulation made under such 
+> an Act—or under an Act of the legislature of a province or a 
+> regulation made under such an Act—or has been charged with or is 
+> under investigation for such an offence; or (b) a false statement 
+> about the citizenship, place of birth, education, professional 
+> qualifications or membership in a group or association of a 
+> candidate, a prospective candidate, the leader of a political party 
+> or a public figure associated with a political party.
+
+[source][cea91]
+
+It seems we no longer enjoy the rule of law in Canada.  Canadians should 
+be furious.
+
+
+[cea91]:    https://www.cbc.ca/news/politics/elections-canada-section-91-2019-election-1.5345250
+[ppc]:      https://peoplespartyofcanada.ca/?recruiter_id=964689
+[cactus]:   https://www.theglobeandmail.com/politics/article-kinsella-firm-hired-to-seek-and-destroy-berniers-peoples-party/
+[python]:   https://python.org
+[tweepy]:   https://pypi.org/project/tweepy
+
+
