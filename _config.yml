@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrick A. Levell
+title: while not true; keep looking;
+author: Patrick A. Levell
 email: palevell@gmx.com
 description: > # this means to ignore newlines until "baseurl:"
   I am an IT guy with 15+ years experience in manufacturing environments.
