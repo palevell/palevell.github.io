@@ -18,15 +18,15 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:patrick.a.levell@gmx.com)
->> /Border [ 0 0 0 ] /Rect [ 201.6978 753.0394 315.7578 765.0394 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (mailto:palevell@gmx.com)
+>> /Border [ 0 0 0 ] /Rect [ 216.3378 753.0394 300.9478 765.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://palevell.github.io)
->> /Border [ 0 0 0 ] /Rect [ 345.7678 753.0394 420.2478 765.0394 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 331.1278 753.0394 405.6078 765.0394 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -56,7 +56,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20191108080208+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191108080208+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20191121121306+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191121121306+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Patrick A. Levell) /Trapped /False
 >>
 endobj
@@ -92,7 +92,7 @@ endobj
 endobj
 16 0 obj
 <<
-/Length 11760
+/Length 11755
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -112,7 +112,7 @@ Q
 q
 1 0 0 1 40.01575 753.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 135.012 0 Td 12 TL /F1 10 Tf 0 0 0 rg (email ) Tj 0 0 .501961 rg (patrick.a.levell@gmx.com) Tj 0 0 0 rg ( - web ) Tj 0 0 .501961 rg (palevell.github.io) Tj  T* -135.012 0 Td ET
+BT 1 0 0 1 0 2 Tm 149.652 0 Td 12 TL /F1 10 Tf 0 0 0 rg (email ) Tj 0 0 .501961 rg (palevell@gmx.com) Tj 0 0 0 rg ( \177 web ) Tj 0 0 .501961 rg (palevell.github.io) Tj  T* -149.652 0 Td ET
 Q
 Q
 q
@@ -1403,26 +1403,26 @@ xref
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000516 00000 n 
-0000000694 00000 n 
-0000000923 00000 n 
-0000001128 00000 n 
-0000001233 00000 n 
-0000001507 00000 n 
-0000001581 00000 n 
-0000001705 00000 n 
-0000001841 00000 n 
-0000001964 00000 n 
-0000002074 00000 n 
-0000002140 00000 n 
-0000013953 00000 n 
-0000021855 00000 n 
-0000021905 00000 n 
-0000021939 00000 n 
+0000000508 00000 n 
+0000000686 00000 n 
+0000000915 00000 n 
+0000001120 00000 n 
+0000001225 00000 n 
+0000001499 00000 n 
+0000001573 00000 n 
+0000001697 00000 n 
+0000001833 00000 n 
+0000001956 00000 n 
+0000002066 00000 n 
+0000002132 00000 n 
+0000013940 00000 n 
+0000021842 00000 n 
+0000021892 00000 n 
+0000021926 00000 n 
 trailer
 <<
 /ID 
-[<dc6f655374408a54840cae644cfe694b><dc6f655374408a54840cae644cfe694b>]
+[<823b7af18cdfedad24d9544b640b4997><823b7af18cdfedad24d9544b640b4997>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -1430,5 +1430,5 @@ trailer
 /Size 21
 >>
 startxref
-21973
+21960
 %%EOF
