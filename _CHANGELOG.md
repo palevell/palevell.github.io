@@ -1,6 +1,9 @@
 Changelog
 =========
 
+- Updated social media links. [Patrick A. Levell]
+- Renamed article. [Patrick A. Levell]
+- Added video statistics for the election. [Patrick A. Levell]
 - Added video statistics for the election. [Patrick A. Levell]
 - Removed older 'modification:' block. [Patrick A. Levell]
 - Added housekeeping script to move '*~*' files to 'local/backup'
