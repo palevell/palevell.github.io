@@ -1,9 +1,16 @@
 Changelog
 =========
 
-
-(unreleased)
-------------
+- Added video statistics for the election. [Patrick A. Levell]
+- Removed older 'modification:' block. [Patrick A. Levell]
+- Added housekeeping script to move '*~*' files to 'local/backup'
+  [Patrick A. Levell]
+- Added 'custom_css' tag for 'Programmers's Christmas' [Patrick A.
+  Levell]
+- Added 'page-footer' for 'modification:' front-matter. [Patrick A.
+  Levell]
+- Added 'custom_css' tag for 'Programmers's Christmas' [Patrick A.
+  Levell]
 - Restored page excerpt code in home.html. [Patrick A. Levell]
 - Renamed PPC-Bot article. [Patrick A. Levell]
 - Renamed PPC-Bot article. [Patrick A. Levell]
