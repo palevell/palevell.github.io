@@ -4,7 +4,7 @@ title:      Election Results
 date:       2019-10-22 12:34:56 -0400
 modified:   2019-11-21 10:28:47 -0500
 version:    0
-categories: [ Government & Politics ]
+categories: [ Politics ]
 tags:       [ ppc, people's party of canada, youtube, elections, elxn43, ]
 excerpt:    
 ---
