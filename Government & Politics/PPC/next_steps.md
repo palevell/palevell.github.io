@@ -122,10 +122,6 @@ Business cards & signs on HQ site for discounted price
 2. Could be joint event, where PPC has blocks of seats
 2. The public needs to see there are more people than the polls lead them to believe
 
-<br>
-
-*****
-###### Revision {{ page.version }} ({{ page.modified | date: "%B %-d, %Y %H:%M:%S %z" }})
 
 [1]: https://youtu.be/ybGAcA3lz7k
 [2]: https://shawnpaulmelville.com/blog
