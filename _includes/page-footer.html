@@ -1,0 +1,8 @@
+    {% if page.modified %}
+        <footer class="page-footer">
+                Modified: {{ page.modified | date: "%B %-d, %Y %H:%M:%S %z" }}
+                {% if page.version %} {% if page.version > 0 %}
+                    (revision {{ page.version }})
+                {% endif %} {% endif %}
+        </footer>
+    {% endif %}
