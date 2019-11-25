@@ -93,7 +93,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20191125144627+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191125144627+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20191125152606+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191125152606+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Patrick A. Levell) /Trapped /False
 >>
 endobj
@@ -1879,7 +1879,7 @@ endstream
 endobj
 29 0 obj
 <<
-/Length 8744
+/Length 8703
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2269,7 +2269,7 @@ q
 1 0 0 1 91.03937 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BitBillions was an early adopter of Bitcoin that promised much but delivered little.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BitBillions was an early Bitcoin community.) Tj T* ET
 Q
 Q
 q
@@ -2335,15 +2335,15 @@ xref
 0000015542 00000 n 
 0000023477 00000 n 
 0000033626 00000 n 
-0000042422 00000 n 
-0000042490 00000 n 
-0000042524 00000 n 
-0000042558 00000 n 
-0000042592 00000 n 
+0000042381 00000 n 
+0000042449 00000 n 
+0000042483 00000 n 
+0000042517 00000 n 
+0000042551 00000 n 
 trailer
 <<
 /ID 
-[<3676d8cceb0ae0395982525096032983><3676d8cceb0ae0395982525096032983>]
+[<58ad049a79f0fd8075c66c0c6356d0f6><58ad049a79f0fd8075c66c0c6356d0f6>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
@@ -2351,5 +2351,5 @@ trailer
 /Size 35
 >>
 startxref
-42626
+42585
 %%EOF
