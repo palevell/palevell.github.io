@@ -2,6 +2,12 @@ Changelog
 =========
 
 
+2019.11.5 (2019-11-28)
+----------------------
+- Launchd / plist article. [Patrick A. Levell]
+- Fixed BitBillions footnote. [Patrick A. Levell]
+
+
 2019.11.4 (2019-11-25)
 ----------------------
 - Fixed BitBillions footnote. [Patrick A. Levell]

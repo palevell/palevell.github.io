@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Complex Task Scheduling with launchd
+title:      Advanced Task Scheduling with launchd
 subtitle:   with launchd & plists
 date:       2019-11-28 7:33:25 -0500
 modified:   2019-11-28 7:33:25 -0500
@@ -111,3 +111,5 @@ The complete .plist file for scheduling this job is shown below:
 </plist>
 ```
 
+Hopefully, this will save somebody time trying to implement advanced 
+scheduling with launchd.
