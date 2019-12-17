@@ -3,6 +3,7 @@ layout:     post
 title:      Flask-vs-Django
 date:       2020-12-04 5:01:59 -0500
 modified:   2020-12-17 6:34:00 -0500
+published:  False
 version:    0
 categories: Technology
 tags:       [django, flask, python, web frameworks, programming]
