@@ -3,11 +3,11 @@ layout:     post
 title:      Advanced Task Scheduling with launchd
 subtitle:   with launchd & plists
 date:       2019-11-28 7:33:25 -0500
-modified:   2019-11-28 7:33:25 -0500
+modified:   2019-12-17 13:59:00 -0500
 version:    0
 categories: Tidbits
 tags:       [osx, macos, launchd, plist, cron, scheduling]
-excerpt:    Launchd day accepts arrays of date dictionaries in the 
+excerpt:    The Launchd daemon accepts arrays of date dictionaries in the 
             "StartCalendarInterval" tag of plist files
 ---
 
