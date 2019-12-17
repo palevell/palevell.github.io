@@ -9,6 +9,7 @@ categories: Technology
 tags:       [django, flask, python, web frameworks, programming]
 excerpt:    After working with Flask for over a year,
             I am finding Django to be much more to my liking.
+slug:       flask-vs-django
 ---
 
 **side note:**
