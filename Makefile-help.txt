@@ -1,0 +1,15 @@
+Project Tasks
+	build:		Generate Jekyll blog
+	draft:		Generate draft version of Jekyll blog
+	serve:		Serve blog on localhost at http://127.0.0.1:4000
+	update:		update Ruby Gems for this blog using 'bundle update'
+
+Source Code Management
+	get/dryget:     Rsync from main server
+	gethq/drygethq: Rsync from HQ server
+	put/dryput:     Rsync to main server
+	puthq/dryputhq: Rsync to HQ server
+	sync/drysync:   Rsync from/to main server
+
+Other
+	help:   This help text

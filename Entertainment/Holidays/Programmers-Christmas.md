@@ -8,7 +8,7 @@ custom_css: christmas
 permalink:  /programmers-christmas/
 ---
 
-![IMAGE](/assets/img/Tws-the-night-before-christmas.png){: .center-image}
+![IMAGE](/assets/img/Twas-the-night-before-christmas.png){: .center-image}
 
 {:.christmas-body}
 ‘Twas the night before implementation,

@@ -12,3 +12,5 @@ _backups
 *.geany
 *~*
 *.tar.*
+*.log
+*.err
