@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Flask-vs-Django
-date:       2020-12-04 5:01:59 -0500
-modified:   2020-12-17 6:34:00 -0500
-published:  false
+date:       2019-12-04 05:01:59 -0500
+modified:   2019-12-28 17:06:00 -0500
+published:  true
 version:    0
 categories: Technology
 tags:       [django, flask, python, web frameworks, programming]
@@ -12,16 +12,11 @@ excerpt:    After working with Flask for over a year,
 slug:       flask-vs-django
 ---
 
-**side note:**
-I tried doing this in ReStructuredText, but the jekyll-rst plugin 
-doesn't seem to work.  When published to the test server, the 
-article link is to a `.rst` file, not HTML.  It looks like the 
-repository is no longer maintained.  Maybe it's because there 
-weren't many people using it (or, did Pelican come after that?)
+<img src="/assets/img/flask-vs-django.png" alt="IMAGE" width="350"/>
 
 ### Outline
 
-1.  I used [Flask][flask], first - [link][flask]
+1.  I used [Flask][flask] first - [link][flask]
     a.  Miguel's [Flask Mega Tutorial][flaskmega] is a great way to learn Python
     b.  A few quick [web searches][vssearch] for Django vs. Flask articles 
         indicated that Flask was the way to go.
@@ -39,6 +34,16 @@ weren't many people using it (or, did Pelican come after that?)
     b. Social logins (ie. OAuth with Twitter, GitHub, Facebook, etc.)
     c. HTML templates
     d. Bootstrap (I have to mention this because one tutorial covered this well)
+4.  What finally convinced me that Django was the better option was being able to get 
+    Tweepy working the way I wanted with Django, and not Flask, in the shortest period 
+    of time.  I am sure I could get Flask to do what I wanted, but isn't the whole point 
+    of these frameworks to make life easier?  From what I have seen, Django handles 
+    sessions (read: user data) better than Flask.  And if it comes down to how the apps 
+    work, Flask loses, simply based on my experiences with pgAdmin IV.  I spent hours 
+    trying to get it to work.  I scoured StackOverflow.com, looking for solutions.  
+    Nothing worked.  Even today, pgAdmin IV still bombs-out.  I am pretty sure it is a 
+    dependency issue--somebody forgot to list all the packages that need to be installed.  
+    It doesn't matter--Adminer works, period.
 
 
 [flask]:        https://palletsprojects.com/p/flask
