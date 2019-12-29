@@ -2,7 +2,7 @@
 layout:     post
 title:      Tweepy with Django-Allauth
 date:       2019-12-28 16:17:08 -0500
-modified:   2019-12-28 16:17:08 -0500
+modified:   2019-12-29 08:43:00 -0500
 version:    0
 categories: Tidbits
 tags:       [howto, python, tweepy, django, allauth, web frameworks, programming]
@@ -39,7 +39,7 @@ Here is the code:
 
 
 The utility script that I wrote for updating the Django `settings.py` file can be found 
-here:
+below:
 {% gist 3264ab36209c149d15e63fc8816fcdd6 %}
 (Note: If you don't have `meld` installed, you might want to comment-out the line in `eoj()` 
 that called it, or comment-out the call to `eoj()`, itself.)
