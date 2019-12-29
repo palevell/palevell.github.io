@@ -1,56 +1,80 @@
 ---
 layout:     post
 title:      Flask-vs-Django
-date:       2019-12-04 05:01:59 -0500
-modified:   2019-12-28 17:06:00 -0500
+date:       2019-12-27 05:01:59 -0500
+modified:   2019-12-29 08:35:00 -0500
 published:  true
 version:    0
 categories: Technology
 tags:       [django, flask, python, web frameworks, programming]
-excerpt:    After working with Flask for over a year,
-            I am finding Django to be much more to my liking.
+excerpt:    After working with Flask for over a year, I am finding 
+            Django to be much more to my liking.
 slug:       flask-vs-django
 ---
 
-<img src="/assets/img/flask-vs-django.png" alt="IMAGE" width="350"/>
+![IMAGE](/assets/img/flask-vs-django.png){: .center-image}
 
-### Outline
-
-1.  I used [Flask][flask] first - [link][flask]
-    a.  Miguel's [Flask Mega Tutorial][flaskmega] is a great way to learn Python
-    b.  A few quick [web searches][vssearch] for Django vs. Flask articles 
+1.  I used the [Flask][flask] web framework, first.
+    -   Miguel's [Flask Mega Tutorial][flaskmega] is a great way to learn Python
+    -   A few quick [web searches][vssearch] for Django vs. Flask articles 
         indicated that Flask was the way to go.
-    c.  When I got to the data encryption part of my app, Flask was a 
+    -   When I got to the data encryption part of my app, Flask was a 
         disaster.  I encountered abandoned modules and tutorials that 
         don't work--more so than usual for the Python community (I have 
         a separate rant on that).
 2.  I am working through the Django [Getting Started][djangostart] tutorial, and 
-    I love it.  [link][djangostart]
-    a. The admin page is well-integrated into the database functionality
-    b. The admin shell is a handy tool for keyboard warriors
+    I love it.
+    - The admin page is well-integrated into the database functionality
+    - The admin shell is a handy tool for keyboard warriors
 3.  I have worked through a few other Django tutorials, covering things like 
     the following:
-    a. Authentication Templates (login pages)
-    b. Social logins (ie. OAuth with Twitter, GitHub, Facebook, etc.)
-    c. HTML templates
-    d. Bootstrap (I have to mention this because one tutorial covered this well)
-4.  What finally convinced me that Django was the better option was being able to get 
-    Tweepy working the way I wanted with Django, and not Flask, in the shortest period 
-    of time.  I am sure I could get Flask to do what I wanted, but isn't the whole point 
-    of these frameworks to make life easier?  From what I have seen, Django handles 
-    sessions (read: user data) better than Flask.  And if it comes down to how the apps 
-    work, Flask loses, simply based on my experiences with pgAdmin IV.  I spent hours 
-    trying to get it to work.  I scoured StackOverflow.com, looking for solutions.  
-    Nothing worked.  Even today, pgAdmin IV still bombs-out.  I am pretty sure it is a 
-    dependency issue--somebody forgot to list all the packages that need to be installed.  
-    It doesn't matter--Adminer works, period.
+    - Authentication Templates (login pages)
+    - Social logins (ie. OAuth with Twitter, GitHub, Facebook, etc.)
+    - HTML templates
+    - [Bootstrap][bootstrap] (I have to mention this because 
+      [one tutorial][authexample] covered this particularly well)
+4.  Social login is central to my Twitter projects.  As such, it is something I have 
+    researched extensively while comparing Flask and Django.  Offerings range from 
+    home-brewed solutions to code libraries that are actively maintained.  Popular 
+    Django libraries include the following:
+    - [django-allauth][allauth]
+    - [django-oauth-toolkit][toolkit]
+    - [python-social-auth / social-auth-app-django][pysocialauth] (formerly [django-social-auth][socialauth])
+5.  [Tweepy][tweepy] can also be used to authenticate, as can be seen in the following 
+    tutorial and example:
+    - [Tweepy Authentication & Authorization Tutorial][tweepyauth]
+    - [DjangoTweepy][djangotweepy]
+
+    These are fine for single-user applications, but need to be wrapped in extra code 
+    for a multi-user application.
+
+### Conclusion
+
+What finally convinced me that Django was the better option was being able to get 
+Tweepy working the way I wanted with Django, faster than in Flask.  I am sure I could 
+get Flask to do what I wanted, but isn't the whole  point of these frameworks to make 
+life easier?  From what I have seen, Django  handles sessions (*read: user data*) 
+better than Flask.
+
+Flask is okay for spinning up small or local servers that don't store sensitive 
+information (aka. secrets).  For projects that handle secrets or have complex data 
+models, Django seems to be the better option.  The [Django Project's][django] tagline 
+of *"The Web framework for perfectionists with deadlines"* seems appropriate.
 
 
+[allauth]:      https://django-allauth.readthedocs.io/en/latest
+[authexample]:  https://youtu.be/60GTvKCuam8
+[bootstrap]:    https://getbootstrap.com
+[django]:       https://www.djangoproject.com
+[djangostart]:  https://docs.djangoproject.com/en/3.0/intro
+[djangotweepy]: https://github.com/martinjc/DjangoTweepy
 [flask]:        https://palletsprojects.com/p/flask
 [flaskmega]:    https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[toolkit]:      https://django-oauth-toolkit.readthedocs.io
+[pysocialauth]: https://python-social-auth.readthedocs.io
+[socialauth]:   https://github.com/omab/django-social-auth
+[tweepy]:       http://www.tweepy.org
+[tweepyauth]:   http://docs.tweepy.org/en/latest/auth_tutorial.html
 [vssearch]:     https://duckduckgo.com/?q=django+vs+flask+2019
-[djangostart]:  https://docs.djangoproject.com/en/3.0/intro
 
-
-**ToDo:** [Give Pelican another try](https://opensource.com/article/19/5/run-your-blog-github-pages-python)
 

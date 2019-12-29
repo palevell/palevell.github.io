@@ -22,7 +22,7 @@ I had been learning the Flask web framework, but it seemed inadequate for what I
 wanted to do--namely keep user data private (including API keys).  For the last month 
 or so, I have been banging-out Django code, mostly from tutorials.  In fact, it prompted 
 me to write a utility script for customizing Django's `settings.py` file to my 
-preferences.
+preferences (see below).
 
 Anyway, after much research and reading of code, I have grown to like the [Django-Allauth 
 package][djangoallauth].  It handles the cration of user accounts and managing sessions quite nicely, and
@@ -41,6 +41,9 @@ Here is the code:
 The utility script that I wrote for updating the Django `settings.py` file can be found 
 here:
 {% gist 3264ab36209c149d15e63fc8816fcdd6 %}
+(Note: If you don't have `meld` installed, you might want to comment-out the line in `eoj()` 
+that called it, or comment-out the call to `eoj()`, itself.)
+
 
 
 [allauthtut]:       https://wsvincent.com/django-allauth-tutorial/
