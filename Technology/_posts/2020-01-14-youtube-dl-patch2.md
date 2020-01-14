@@ -1,6 +1,6 @@
 ---
 layout: 	post   
-title:  	UPDATED: PATCH - Long Tweets in youtube-dl
+title:  	PATCH - Long Tweets in youtube-dl (updated)
 date:   	2020-Jan-14 11:22:33 -0500
 published:	true
 categories: Technology
