@@ -2,7 +2,7 @@
 layout:     post
 title:      Disabling Laptop Touch Devices
 date:       2020-02-09 10:25:01 -0500
-modified:   2020-02-09 10:25:01 -0500
+modified:   2020-02-09 12:16:01 -0500
 version:    0
 categories: Tidbits
 tags:       [howto, bash, touchpad, laptop, linux, macos, osx, unix, bashrc]
@@ -19,3 +19,4 @@ My solution is as follows:
 
 {% gist 9b1952153c7e59f20296e5aaa6880a90 %}
 
+The above code is just a snippet that I placed into my `~/.bashrc` file.  Let me know how it works for you in the comments.
