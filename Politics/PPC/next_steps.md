@@ -3,7 +3,7 @@ layout:     page
 title:      Next Steps
 date:       2019-10-26 12:34:56 -0400
 modified:   2020-05-29 16:41:00 -0400
-version:    6
+version:    7
 categories: [Politics, PPC]
 tags:       ppc election post-election post-mortem
 permalink:  /ppc-nextsteps/
