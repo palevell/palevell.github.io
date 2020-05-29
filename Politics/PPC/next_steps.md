@@ -2,7 +2,7 @@
 layout:     page
 title:      Next Steps
 date:       2019-10-26 12:34:56 -0400
-modified:   2019-10-28 10:45:00 -0400
+modified:   2020-05-29 16:41:00 -0400
 version:    6
 categories: [Politics, PPC]
 tags:       ppc election post-election post-mortem
@@ -42,7 +42,7 @@ permalink:  /ppc-nextsteps/
 	- To aggregate PPC-related tweets from PPC supporters and candidates
 	- To maintain a list of the Twitter accounts followed by Max, to make it easier for people to follow & retweet each other.
 2. I inherited **SupportersOfPPC** in September, and repurposed it to retweet PPC candidates, and continue its presence.
-2. The **Hashtag Team** was craeted to help get Max into the debates
+2. The **Hashtag Team** was created to help get Max into the debates
 	- Several hashtag campaigns managed to get a variety of Twitter hashtags trending, in order to get attention, espcially that of the Leaders' Debate Commissioner and the Munk debate.
 	- After the debates, campaigns help to promote the PPC platform
 	- About 500 people were involved in this, managed by Sharon (@mmccdenier)
