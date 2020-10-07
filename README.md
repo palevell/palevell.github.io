@@ -3,9 +3,10 @@
 This is the source code for my Jekyll site at github.io (GitHub Pages)
 
 ##### Wednesday, October 7, 2020
-- Updated PatrickLevellResume.pdf symlink to point to CV2020.pdf
-- Updated google-analytics.html per Google instructions
-- Added docs/CV2020.pdf
+- Updated `Gemfile.lock` with the command, `bundle lock --update`
+- Updated `PatrickLevellResume.pdf` symlink to point to `CV2020.pdf`
+- Updated `google-analytics.html` per Google instructions
+- Added `docs/CV2020.pdf`
 
 ##### Sunday, December 29, 2020
 - Copied `.center-image` from `christmas.css` to `main.css` in the `/assets` 
